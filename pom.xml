@@ -10,7 +10,7 @@
 		<sonar.projectKey>XeeoNz_ivt-lab</sonar.projectKey>
 		<sonar.organization>xeeonz</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		
+		<sonar.login>a8033904db9064ba9e93c2487f6f7e99e60bfcf8</sonar.login>
 	</properties>
 
 	<dependencies>
